@@ -1,0 +1,19 @@
+products:
+   C:\workspace\scala\fxcalculator\src\main\scala\scala\practice\fxcalculator\Application.scala -> C:\workspace\scala\fxcalculator\build\classes\main\scala\practice\fxcalculator\Application$.class
+   C:\workspace\scala\fxcalculator\src\main\scala\scala\practice\fxcalculator\Application.scala -> C:\workspace\scala\fxcalculator\build\classes\main\scala\practice\fxcalculator\Application.class
+   C:\workspace\scala\fxcalculator\src\main\scala\scala\practice\fxcalculator\domain\Calculator.scala -> C:\workspace\scala\fxcalculator\build\classes\main\scala\practice\fxcalculator\domain\Calculator$.class
+   C:\workspace\scala\fxcalculator\src\main\scala\scala\practice\fxcalculator\domain\Calculator.scala -> C:\workspace\scala\fxcalculator\build\classes\main\scala\practice\fxcalculator\domain\Calculator.class
+binary dependencies:
+   C:\workspace\scala\fxcalculator\src\main\scala\scala\practice\fxcalculator\Application.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+   C:\workspace\scala\fxcalculator\src\main\scala\scala\practice\fxcalculator\Application.scala -> C:\Users\alex\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\workspace\scala\fxcalculator\src\main\scala\scala\practice\fxcalculator\domain\Calculator.scala -> C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar
+   C:\workspace\scala\fxcalculator\src\main\scala\scala\practice\fxcalculator\domain\Calculator.scala -> C:\Users\alex\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+source dependencies:
+
+external dependencies:
+
+class names:
+   C:\workspace\scala\fxcalculator\src\main\scala\scala\practice\fxcalculator\Application.scala -> scala.practice.fxcalculator.Application
+   C:\workspace\scala\fxcalculator\src\main\scala\scala\practice\fxcalculator\Application.scala -> scala.practice.fxcalculator.Application$
+   C:\workspace\scala\fxcalculator\src\main\scala\scala\practice\fxcalculator\domain\Calculator.scala -> scala.practice.fxcalculator.domain.Calculator
+   C:\workspace\scala\fxcalculator\src\main\scala\scala\practice\fxcalculator\domain\Calculator.scala -> scala.practice.fxcalculator.domain.Calculator$
