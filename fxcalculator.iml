@@ -22,5 +22,13 @@
     <orderEntry type="library" exported="" name="Gradle: org.scala-lang.modules:scala-xml_2.11:1.0.4" level="project" />
     <orderEntry type="library" exported="" name="Gradle: org.scala-lang.modules:scala-parser-combinators_2.11:1.0.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.scalatest:scalatest_2.11:2.2.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.pegdown:pegdown:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.parboiled:parboiled-core:1.0.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.parboiled:parboiled-java:1.0.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: asm:asm:3.3.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: asm:asm-util:3.3.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: asm:asm-tree:3.3.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: asm:asm-analysis:3.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.scalafx:scalafx_2.11:8.0.40-R8" level="project" />
   </component>
 </module>

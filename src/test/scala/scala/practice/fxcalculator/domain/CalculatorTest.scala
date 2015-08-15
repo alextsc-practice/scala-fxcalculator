@@ -5,32 +5,22 @@ import org.scalatest.{FunSuite, Matchers}
 class CalculatorTest extends FunSuite with Matchers {
 
   test("Basic addition") {
-    assertResult(3) {
-      Calculator.calculate("1+2")
-    }
+    Calculator.calculate("1+2") should be(3)
   }
 
   test("Basic substraction") {
-    assertResult(9) {
-      Calculator.calculate("12-3")
-    }
+    Calculator.calculate("12-3") should be(9)
   }
 
   test("Basic multiplication") {
-    assertResult(12) {
-      Calculator.calculate("4*3")
-    }
+    Calculator.calculate("4*3") should be(12)
   }
 
   test("Basic division") {
-    assertResult(6) {
-      Calculator.calculate("12/2")
-    }
+    Calculator.calculate("12/2") should be(6)
   }
 
   test("Mixed operators") {
-    assertResult(4) {
-      Calculator.calculate("2+4*5/10")
-    }
+    Calculator.calculate("2+4*5/10") should be(4)
   }
 }
